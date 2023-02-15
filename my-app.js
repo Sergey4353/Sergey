@@ -12,3 +12,4 @@ const menu = {
 console.log(tempObj._num);
 console.log(tempObj['num']);
 console.log(tempObj.num);
+// something tekst
